@@ -1,0 +1,9 @@
+while true:
+         name = input("Please enter name:  ")
+         if not name.isalpha():
+             
+             print("No valid string... Please try again")
+
+         else:
+
+             print("Great, Successfully enterd string")
